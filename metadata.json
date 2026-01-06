@@ -1,0 +1,8 @@
+{
+  "name": "Sahaya: SDG 1 - No Poverty Helper",
+  "description": "A comprehensive mobile UI focused on UN SDG 1 (No Poverty) for India, featuring AI-powered modules for food, healthcare, employment, and government schemes.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
